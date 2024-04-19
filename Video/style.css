@@ -1,0 +1,18 @@
+/* Stylesheet for Video Player */
+.video-container {
+ max-width: 100px;
+  margin: 0 auto;
+  }
+  
+  .controls {
+    margin-top: 10px;
+  }
+  
+  .controls button {
+    margin-right: 10px;
+  }
+
+  #myVideo{
+    height: 200px;
+    width: 600px;
+  }
